@@ -1,4 +1,4 @@
-name: Deploy 🥗 Nomie Fasting Plugin to Github Pages
+name: Deploy ⏲ Nomie Fasting Plugin to Github Pages
 
 on:
   # Runs on pushes targeting the default branch
